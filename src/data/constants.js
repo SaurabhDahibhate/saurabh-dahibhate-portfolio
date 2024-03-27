@@ -5,7 +5,7 @@ export const Bio = {
     "I am a dedicated front-end developer driven by a passion for crafting seamless user experiences. I thrive on creating innovative solutions that delight users and exceed expectations.",
   github: "https://github.com/SaurabhDahibhate/",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1CmwVtwRO7q1_WKyMnL6v5rIHikTQwK07/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saurabh-dahibhate/",
   insta: "https://www.instagram.com/its_ds_18/",
   facebook: "https://www.facebook.com/saurabh.dahibhate.7/",
