@@ -99,9 +99,6 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display">
             <FacebookIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display">
-            <TwitterIcon />
-          </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
@@ -110,7 +107,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Saurabh Dahibhate. All rights reserved.
+          &copy; 2025 Saurabh Dahibhate. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
