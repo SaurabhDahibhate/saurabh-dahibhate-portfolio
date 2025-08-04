@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Saurabh Dahibhate",
-  roles: ["Front-end Developer", "React Developer", "WordPress Developer"],
+  roles: ["Software Engineer", "Front-end Developer", "React Developer"],
   description:
     "I am a dedicated front-end developer driven by a passion for crafting seamless user experiences. I thrive on creating innovative solutions that delight users and exceed expectations.",
   github: "https://github.com/SaurabhDahibhate/",
   resume:
-    "https://drive.google.com/file/d/1CmwVtwRO7q1_WKyMnL6v5rIHikTQwK07/view?usp=sharing",
+    "https://drive.google.com/file/d/1_r_Sz_1WZrOEl8LL6BgcmkPOlPR3S1Em/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saurabh-dahibhate/",
   insta: "https://www.instagram.com/its_ds_18/",
   facebook: "https://www.facebook.com/saurabh.dahibhate.7/",
@@ -120,7 +120,7 @@ export const experiences = [
     img: "https://res.cloudinary.com/dsgdhuhbp/image/upload/v1709914893/omi-infotech_wsxtu5.jpg",
     role: "Web Developer",
     company: "Omi Infotech Pvt Ltd",
-    date: "Jan 2022 - Present",
+    date: "June 2023 - July 2025",
     desc: "Assisting the development team in maintaining 8 websites • Optimized page elements to reduce loading time and debugged code to ensure cross-browser usability. • Developing and implementing user interface components using JavaScript, HTML, CSS, and frameworks like Reac",
     skills: [
       "HTML5",
@@ -131,19 +131,10 @@ export const experiences = [
       "WordPress",
       "Php",
       "ReactJS",
-    ],
-    // doc: "https://res.cloudinary.com/dsgdhuhbp/image/upload/v1709966596/vibeosys_exp_tjwxar.jpg",
-  },
-  {
-    id: 1,
-    img: "https://res.cloudinary.com/dsgdhuhbp/image/upload/v1709965174/Vibeosys_ngzdw2.jpg",
-    role: "Digital Marketing Intern",
-    company: "VibeosysSoftware Pvt Ltd",
-    date: "Aug 2021 - Nov 2021",
-    desc: "• Regularly optimized the company’s website for improved performance and user experience. • Proactively identified and resolved website issues related to optimization in WordPress. • Implemented SEO strategies to improve the company’s visibility on Google Search",
-    skills: ["HTML", "CSS", "Php", "MySql", "WordPress"],
-    doc: "https://res.cloudinary.com/dsgdhuhbp/image/upload/v1709966596/vibeosys_exp_tjwxar.jpg",
-  },
+    ]
+    
+  }
+ 
 ];
 
 export const education = [
@@ -171,7 +162,7 @@ export const projects = [
   {
     id: 1,
     title: "BlogWrite",
-    date: "Feb 2024",
+    date: "Feb 2025",
     description:
       "Designed and engineered a cutting-edge blogging platform using ReactJS and Tailwind CSS, boasting a visually stunning, dark-mode compatible interface. Utilized the power of Appwrite as the backend infrastructure, enabling seamless user authentication and robust CRUD operations for managing blog content. Leveraged Redux Toolkit for efficient state management, while React Routing facilitated smooth navigation throughout the platform. Implemented intuitive file handling features, empowering users to personalize their posts with ease by selecting and uploading images, enhancing the overall user experience and interactivity.",
     image:
@@ -191,7 +182,7 @@ export const projects = [
   {
     id: 2,
     title: "HealthyFoodies",
-    date: "Nov 2023",
+    date: "Jun 2024",
     description:
       "It features smooth scrolling animations and utilizes the Intersection Observer API for sticky navigation. The project implements a flexbox layout for responsive page design and integrates external libraries like Ionicons and Smoothscroll polyfill. With a focus on semantic HTML and form handling for user sign-up, OmniFood showcases expertise in modern web development technique",
     image:
@@ -212,7 +203,7 @@ export const projects = [
   {
     id: 1,
     title: "Programmer Laughter",
-    date: "Jan 2024",
+    date: "Dec 2024",
     description:
       "This project showcases dynamic content fetching and display using JavaScript's Fetch API to retrieve programming jokes from an external API. The fetched joke is then displayed along with a randomly selected GIF for added humor. The webpage features a responsive design and incorporates event listeners for user interaction, such as fetching new jokes and copying jokes to the clipboard. Utilizing modern web development techniques, the project demonstrates proficiency in asynchronous programming, DOM manipulation, and user experience enhancement. With its clean code structure and seamless integration of external resources, this project exemplifies expertise in frontend development and creative implementation of APIs for engaging user experiences",
     image:
@@ -221,25 +212,7 @@ export const projects = [
     github: "https://github.com/SaurabhDahibhate/Programmer_joke_generator",
     webapp: "https://programmer-jokie.netlify.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "Red Soil Boating Club Hadshi",
-  //   date: "Nov 2022",
-  //   description:
-  //     "I have designed, developed and deployed this Boating Website using WordPress ",
-  //   image:
-  //     "https://res.cloudinary.com/dsgdhuhbp/image/upload/v1709994184/boating_cv5wwp.gif",
-  //   tags: ["Designing", "WordPress Development", "SEO", "Hosting"],
-  //   github: "",
-  //   webapp:
-  //     "https://drive.google.com/drive/folders/1Z0VFD4qa_5f4Ru22f3tlRN7Jbd33Qr9o?usp=drive_link",
-  // },
+  
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+
